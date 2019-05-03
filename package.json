@@ -1,0 +1,19 @@
+{
+  "name": "nodejspublish",
+  "version": "1.0.0",
+  "description": "node-js oppgave",
+  "main": "Addition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravanisuneel/node-js.git"
+  },
+  "author": "sravani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sravanisuneel/node-js/issues"
+  },
+  "homepage": "https://github.com/sravanisuneel/node-js#readme"
+}
